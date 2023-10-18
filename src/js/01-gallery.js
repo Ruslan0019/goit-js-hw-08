@@ -25,3 +25,4 @@ document.addEventListener("DOMContentLoaded", () => {
     const lightbox = new SimpleLightbox('.gallery a');
 });
 
+
